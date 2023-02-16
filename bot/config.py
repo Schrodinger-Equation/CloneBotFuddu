@@ -3,14 +3,14 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = ""
-GDRIVE_FOLDER_ID = ""
+BOT_TOKEN = "5632065932:AAHKCHbwGOsj1KVzcG1iOmp0_iiotE54J6M"
+GDRIVE_FOLDER_ID = "1I5mfP_yK_uuN2rBiRoAy6UySq4FExXqF"
 # Default folder id.
-OWNER_ID = 123455673
+OWNER_ID = 1925884947
 # Example: OWNER_ID = 619418070
-AUTHORISED_USERS = []
+AUTHORISED_USERS = [-1001583771004]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = ""
+INDEX_URL = "https://fun.heisenbergandschrodinger.workers.dev/0:/FUN%202.0/HM/BOT_UPLOADS/"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = True
 # --------------------------------------
